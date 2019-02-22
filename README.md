@@ -4,3 +4,4 @@ I created a store to use in the terminal called Bamazon. You can follow the dire
 
 Product price includes tax.
 
+Presentation1.pptx
